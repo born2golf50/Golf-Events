@@ -1,0 +1,18 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+#id-selector-course {
+  color: blue;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#id-selector-tournament {
+  color: red;
+  font-size: 15px;
+  font-weight: bold;
+}
